@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=bulr&text=Hi%20I'm%20Sakiyah%20Winston👋&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=bulr&text=Hi%20I'm%20Sakiyah%20Winston👋&fontColor=000000)
 
 <!--
 **sakiw3484/sakiw3484** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
