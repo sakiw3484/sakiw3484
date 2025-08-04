@@ -2,26 +2,53 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&text=Hi%20I'm%20Sakiyah%20Winston👋&fontColor=f5f5dc&fontSize=40&animation=fadeIn&fontAlign=50)
 
 ```yaml
-Location: New York City
-Education:
-[
-  Oswego State University
-  Major: Computer Science
-  Minor: Cognitive Science
-]
-About Me:
-[
-I am a Computer Science student, currently in my last year of my degree, I am expanding my knowledge in both full-stack web development and Macince learning.
-I’m currently working on ...
-Personal Website
+# 👋 Hi there! I'm Sakiyah Winston
 
-Outside of tech, I enjoy being outdoors🌳
-My hobbies include
-hiking 🥾
-fishing 🎣
-reading 📖
-eating a good steak🥩
-]
+📍 **Location:** New York City  
+🎓 **Education:** Oswego State University  
+💻 **Major:** Computer Science  
+🧠 **Minor:** Cognitive Science  
+
+---
+
+## 🧠 About Me
+
+I’m a Computer Science student in my final year, passionate about full-stack web development and machine learning. I love building clean, functional, and engaging digital experiences that blend aesthetics with intelligence.
+
+---
+
+## 🚧 Current Projects
+
+### 🌐 Personal Portfolio Website
+- Designing a modern, responsive user interface
+- Integrating a live AI-powered chatbot for project and personal Q&A
+
+---
+
+## 🌿 Outside of Tech
+
+I’m all about balance — when I’m not coding, you’ll probably find me outdoors!  
+Some of my favorite things:
+
+- Hiking 🥾  
+- Fishing 🎣  
+- Reading 📖  
+- Eating a good steak 🥩  
+
+---
+
+## 🛠️ Tech Interests
+
+- Full-Stack Web Development  
+- AI & Machine Learning  
+- Human-Computer Interaction  
+- Cognitive Science in Tech  
+
+---
+
+> Always learning. Always building. Always exploring.  
+Let’s connect and create something awesome!
+
 ```
 
 <h2>Tools I've used and learned</h2>
