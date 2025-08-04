@@ -1,6 +1,4 @@
-## Hi there 👋
-
-![header](https://capsule-render.vercel.app/api?type=blur&text=Hi%20I'm%20Sakiyah%20Winston)
+![header](https://capsule-render.vercel.app/api?type=venom&text=Hi%20I'm%20Sakiyah%20Winston👋)
 
 <!--
 **sakiw3484/sakiw3484** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
