@@ -1,7 +1,6 @@
 
-![header](https://capsule-render.vercel.app/api?type=blur&text=Hi%20I'm%20Sakiyah%20Winston%20CS%20Student%20passionate%20about👋&fontColor=f5f5dc&fontSize=40&animation=fadeIn&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=blur&text=Hi%20I'm%20Sakiyah%20Winston%20CS%20Student%20passionate%20about%20full-stack%20and%20Ai&fontColor=f5f5dc&fontSize=20&animation=fadeIn&fontAlign=50)
 
-Hi%20there!%20👋%20I'm%20Sakiyah Winston,%20a%20CS%20student%20passionate%20about%20full-stack%20dev%20and%20AI.
 
 Here’s a structured snapshot of me:
 
