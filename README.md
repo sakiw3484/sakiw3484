@@ -1,5 +1,10 @@
 
-![header](https://capsule-render.vercel.app/api?type=blur&text=Hi%20I'm%20Sakiyah%20Winston👋&fontColor=f5f5dc&fontSize=40&animation=fadeIn&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=blur&text=Hi%20I'm%20Sakiyah%20Winston%20CS%20Student%20passionate%20about👋&fontColor=f5f5dc&fontSize=40&animation=fadeIn&fontAlign=50)
+
+Hi%20there!%20👋%20I'm%20Sakiyah Winston,%20a%20CS%20student%20passionate%20about%20full-stack%20dev%20and%20AI.
+
+Here’s a structured snapshot of me:
+
 
 ```yaml
 name: Sakiyah Winston
@@ -37,6 +42,8 @@ interests:
 
 ```
 
+
+
 <h2>Tools I've used and learned</h2>
 <p aligh="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -48,20 +55,10 @@ interests:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clojure/clojure-original.svg" alt="Clojure" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="c#" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="45" height="45" />
-          
-          
-
-          
-          
-          
-  
-          
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="45" height="45" />          
 </p>
 
           
-
 <!--
 **sakiw3484/sakiw3484** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img align="right" height="200" width="100"
