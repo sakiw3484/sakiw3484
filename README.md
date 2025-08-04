@@ -21,6 +21,12 @@
       - Build an aesthetically pleasing and responsive UI
       - Integrate an AI-powered chatbot for real-time interaction
 
+💡interests:
+  - Full-Stack Web Development
+  - Machine Learning
+  - AI & Cognitive Science
+  - Human-Computer Interaction
+
 🌳outside_of_tech:
   enjoy_being_outdoors: true
   hobbies:
@@ -28,14 +34,6 @@
     - fishing 🎣
     - reading 📖
     - eating_a_good_steak 🥩
-
-💡interests:
-  - Full-Stack Web Development
-  - Machine Learning
-  - AI & Cognitive Science
-  - Human-Computer Interaction
-
-
 ```
 
 
