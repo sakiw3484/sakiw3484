@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=blur)
+![header](https://capsule-render.vercel.app/api?type=blur&text=Hi I'm Sakiyah Winston)
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 <!--
 **sakiw3484/sakiw3484** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
