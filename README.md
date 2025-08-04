@@ -23,8 +23,8 @@ Education:
 ```
 
 <h2>Tech Stack</h2>
-<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/0f0f8271-c138-43ae-9473-28a740e1553c" />
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+          
 
 <!--
 **sakiw3484/sakiw3484** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
