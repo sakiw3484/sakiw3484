@@ -1,6 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=blur&text=Hi%20I'm%20Sakiyah%20Winston👋&fontColor=f5f5dc&fontSize=40&animation=fadeIn)
 
 <p align="center">
-![header](https://capsule-render.vercel.app/api?type=blur&text=Hi%20I'm%20Sakiyah%20Winston👋&fontColor=f5f5dc&fontSize=40&animation=fadeIn)
 
 <a href="https://www.linkedin.com/in/sakiyah-winston/"> 
 <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/7d51a2ce-fdce-4d85-b7ae-9fa0ec616fdb"/></a>
@@ -20,6 +20,11 @@ Education:
   Minor: Cognitive Science
 ]
 ```
+
+<h2>Tech Stack</h2>
+<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/0f0f8271-c138-43ae-9473-28a740e1553c" />
+
+
 <!--
 **sakiw3484/sakiw3484** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
