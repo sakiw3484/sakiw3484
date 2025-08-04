@@ -3,10 +3,12 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/sakiyah-winston/"> 
 <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/7d51a2ce-fdce-4d85-b7ae-9fa0ec616fdb"/></a>
+</p>
+
+<p align="center">
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejA1aHVkN3lmOWZ1ODI1eWNueDVibzkxNXZwaDhobGQ4MWdqN3dtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2XLoAphEiufV6/giphy.gif"/>
 </p>
-
 ```yaml
 Name: Sakiyah
 Location: New York City
