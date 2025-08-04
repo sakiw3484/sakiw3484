@@ -1,17 +1,26 @@
 
 ![header](https://capsule-render.vercel.app/api?type=blur&text=Hi%20I'm%20Sakiyah%20Winston👋&fontColor=f5f5dc&fontSize=40&animation=fadeIn&fontAlign=50)
 
-<img align="right" height="200" width="100"
-  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejA1aHVkN3lmOWZ1ODI1eWNueDVibzkxNXZwaDhobGQ4MWdqN3dtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2XLoAphEiufV6/giphy.gif"/>
-
 ```yaml
-About Me..
 Location: New York City
 Education:
 [
   Oswego State University
   Major: Computer Science
   Minor: Cognitive Science
+]
+About Me:
+[
+I am a Computer Science student, currently in my last year of my degree, I am expanding my knowledge in both full-stack web development and Macince learning.
+I’m currently working on ...
+Personal Website
+
+Outside of tech, I enjoy being outdoors🌳
+My hobbies include
+hiking 🥾
+fishing 🎣
+reading 📖
+eating a good steak🥩
 ]
 ```
 
@@ -42,6 +51,8 @@ Education:
 
 <!--
 **sakiw3484/sakiw3484** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" height="200" width="100"
+  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejA1aHVkN3lmOWZ1ODI1eWNueDVibzkxNXZwaDhobGQ4MWdqN3dtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2XLoAphEiufV6/giphy.gif"/>
 
 Here are some ideas to get you started:
 
