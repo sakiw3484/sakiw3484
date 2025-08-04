@@ -1,29 +1,27 @@
 
-![header](https://capsule-render.vercel.app/api?type=blur&text=Hi%20I'm%20Sakiyah%20Winston%20CS%20Student%20passionate%20about%20full-stack%20and%20AI&fontColor=f5f5dc&fontSize=20&animation=fadeIn&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=blur&text=Hi%20I'm%20Sakiyah%20Winston%20CS%20Student%20passionate%20about%20full-stack%20and%20AI%20development&fontColor=f5f5dc&fontSize=20&animation=fadeIn&fontAlign=50)
 
-
-<p Color="f5f5dc"> Here’s a structured snapshot of me: </p>
 
 ```yaml
-location: New York City
-education:
+📍location: New York City
+👩🏾‍🏫education:
   university: Oswego State University
   major: Computer Science
   minor: Cognitive Science
 
-about_me:
+👩🏽‍💻about_me:
   description: |
     I’m a Computer Science student in my final year,
     expanding my skills in full-stack web development and machine learning.
     I enjoy blending creativity with logic to build projects that are both beautiful and intelligent.
 
-currently_working_on:
+🚧currently_working_on:
   - project: Personal Website
     goals:
       - Build an aesthetically pleasing and responsive UI
       - Integrate an AI-powered chatbot for real-time interaction
 
-outside_of_tech:
+🌳outside_of_tech:
   enjoy_being_outdoors: true
   hobbies:
     - hiking 🥾
@@ -31,7 +29,7 @@ outside_of_tech:
     - reading 📖
     - eating_a_good_steak 🥩
 
-interests:
+💡interests:
   - Full-Stack Web Development
   - Machine Learning
   - AI & Cognitive Science
