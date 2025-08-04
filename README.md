@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&text=Hi%20I'm%20Sakiyah%20Winston👋&fontColor=f5f5dc&fontSize=40&animation=fadeIn)
 
 <a href="https://www.linkedin.com/in/sakiyah-winston/"> 
-<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/7d51a2ce-fdce-4d85-b7ae-9fa0ec616fdb"/></a>
+<img width="48" height="48" alt="image" src="https://tenor.com/view/girl-anime-gif-18430453"/></a>
 
 
-<img width="50" alt="gif" src="https://tenor.com/view/girl-anime-gif-18430453"/>
+<img src="https://tenor.com/view/girl-anime-gif-18430453"/>
 
 
 
