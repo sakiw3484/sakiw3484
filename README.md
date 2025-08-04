@@ -2,53 +2,38 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&text=Hi%20I'm%20Sakiyah%20Winston👋&fontColor=f5f5dc&fontSize=40&animation=fadeIn&fontAlign=50)
 
 ```yaml
-# 👋 Hi there! I'm Saki
+name: Sakiyah Winston
+location: New York City
+education:
+  university: Oswego State University
+  major: Computer Science
+  minor: Cognitive Science
 
-📍 **Location:** New York City  
-🎓 **Education:** Oswego State University  
-💻 **Major:** Computer Science  
-🧠 **Minor:** Cognitive Science  
+about_me:
+  description: |
+    I’m a Computer Science student in my final year, expanding my skills in full-stack web development and machine learning.
+    I enjoy blending creativity with logic to build projects that are both beautiful and intelligent.
 
----
+currently_working_on:
+  - project: Personal Website
+    goals:
+      - Build an aesthetically pleasing and responsive UI
+      - Integrate an AI-powered chatbot for real-time interaction
 
-## 🧠 About Me
+outside_of_tech:
+  enjoy_being_outdoors: true
+  hobbies:
+    - hiking 🥾
+    - fishing 🎣
+    - reading 📖
+    - eating_a_good_steak 🥩
 
-I’m a Computer Science student in my final year, passionate about full-stack web development and machine learning.
-I love building clean, functional, and engaging digital experiences that blend aesthetics with intelligence.
+interests:
+  - Full-Stack Web Development
+  - Machine Learning
+  - AI & Cognitive Science
+  - Human-Computer Interaction
 
----
-
-## 🚧 Current Projects
-
-### 🌐 Personal Portfolio Website
-- Designing a modern, responsive user interface
-- Integrating a live AI-powered chatbot for project and personal Q&A
-
----
-
-## 🌿 Outside of Tech
-
-I’m all about balance — when I’m not coding, you’ll probably find me outdoors!  
-Some of my favorite things:
-
-- Hiking 🥾  
-- Fishing 🎣  
-- Reading 📖  
-- Eating a good steak 🥩  
-
----
-
-## 🛠️ Tech Interests
-
-- Full-Stack Web Development  
-- AI & Machine Learning  
-- Human-Computer Interaction  
-- Cognitive Science in Tech  
-
----
-
-> Always learning. Always building. Always exploring.  
-Let’s connect and create something awesome!
 
 ```
 
