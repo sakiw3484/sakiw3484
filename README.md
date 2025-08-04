@@ -15,7 +15,8 @@ education:
 
 about_me:
   description: |
-    I’m a Computer Science student in my final year, expanding my skills in full-stack web development and machine learning.
+    I’m a Computer Science student in my final year,
+    expanding my skills in full-stack web development and machine learning.
     I enjoy blending creativity with logic to build projects that are both beautiful and intelligent.
 
 currently_working_on:
