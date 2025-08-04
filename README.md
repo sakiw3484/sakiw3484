@@ -3,6 +3,11 @@
 <a href="https://www.linkedin.com/in/sakiyah-winston/"> 
 <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/7d51a2ce-fdce-4d85-b7ae-9fa0ec616fdb"/></a>
 
+
+<img alt="gif" src="https://tenor.com/view/girl-anime-gif-18430453"/>
+
+
+
 <!--
 **sakiw3484/sakiw3484** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
