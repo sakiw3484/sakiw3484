@@ -5,12 +5,16 @@
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejA1aHVkN3lmOWZ1ODI1eWNueDVibzkxNXZwaDhobGQ4MWdqN3dtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2XLoAphEiufV6/giphy.gif"/>
 
-'''yaml
-Name:Saki
-'''
 
 ```yaml
-hello
+Name: Sakiyah
+Location: New York City
+Education:
+[
+  Oswego State University
+  Major: Computer Science
+  Minor: Cognitive Science
+]
 ```
 <!--
 **sakiw3484/sakiw3484** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
