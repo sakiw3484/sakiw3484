@@ -2,11 +2,9 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&text=Hi%20I'm%20Sakiyah%20Winston%20CS%20Student%20passionate%20about%20full-stack%20and%20AI&fontColor=f5f5dc&fontSize=20&animation=fadeIn&fontAlign=50)
 
 
-Here’s a structured snapshot of me:
-
+<p color="f5f5dc"> Here’s a structured snapshot of me: </p>
 
 ```yaml
-name: Sakiyah Winston
 location: New York City
 education:
   university: Oswego State University
