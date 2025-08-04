@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/sakiyah-winston/"> 
 <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/7d51a2ce-fdce-4d85-b7ae-9fa0ec616fdb"/></a>
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejRlcm4ydTJmZjNwazRsbzFlZGJzNTVyNGt2czBhbTljODl3dzdkcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fxT3qQ7NRbvP3Nle7V/giphy.gif"/>
+<img src="https://tenor.com/view/girl-anime-gif-18430453"/>
 
 
 
