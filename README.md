@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=blur&text=Hi%20I'm%20Sakiyah%20Winston👋&fontColor=FFFFFF&fontSize=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=blur&text=Hi%20I'm%20Sakiyah%20Winston👋&fontColor=f5f5dc&fontSize=40&animation=fadeIn)
+
+<a href="www.linkedin.com/in/sakiyah-winston"> <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/7d51a2ce-fdce-4d85-b7ae-9fa0ec616fdb" />
+"</a>
 
 <!--
 **sakiw3484/sakiw3484** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
