@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&text=Hi%20I'm%20Sakiyah%20Winston👋&fontColor=f5f5dc&fontSize=40&animation=fadeIn&fontAlign=50)
 
 ```yaml
-# 👋 Hi there! I'm Sakiyah Winston
+# 👋 Hi there! I'm Saki
 
 📍 **Location:** New York City  
 🎓 **Education:** Oswego State University  
@@ -13,7 +13,8 @@
 
 ## 🧠 About Me
 
-I’m a Computer Science student in my final year, passionate about full-stack web development and machine learning. I love building clean, functional, and engaging digital experiences that blend aesthetics with intelligence.
+I’m a Computer Science student in my final year, passionate about full-stack web development and machine learning.
+I love building clean, functional, and engaging digital experiences that blend aesthetics with intelligence.
 
 ---
 
