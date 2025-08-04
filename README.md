@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&text=Hi%20I'm%20Sakiyah%20Winston%20CS%20Student%20passionate%20about%20full-stack%20and%20AI&fontColor=f5f5dc&fontSize=20&animation=fadeIn&fontAlign=50)
 
 
-<p color="f5f5dc"> Here’s a structured snapshot of me: </p>
+<p Color="f5f5dc"> Here’s a structured snapshot of me: </p>
 
 ```yaml
 location: New York City
