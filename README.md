@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=blur&text=Hi%20I'm%20Sakiyah%20a%20Student%20passionate%20about%20Frontend%20and%20AI%20development&fontColor=f5f5dc&fontSize=20&animation=fadeIn&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=blur&text=Hi%20I'm%20Sakiyah%20a%20student%20passionate%20about%20Frontend%20and%20AI%20development&fontColor=f5f5dc&fontSize=20&animation=fadeIn&fontAlign=50)
 
 
 ```yaml
@@ -10,7 +10,7 @@
   minor: Cognitive Science
 
 👩🏽‍💻about_me:
-    I’m a Computer Science student in my final year,
+    I’m a student in my junior year,
     expanding my skills in full-stack web development and machine learning.
     I enjoy blending creativity with logic to build projects that are both beautiful and intelligent.
 
