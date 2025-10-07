@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=blur&text=Hi%20I'm%20Sakiyah%20CS%20Student%20passionate%20about%20Frontend%20and%20AI%20development&fontColor=f5f5dc&fontSize=20&animation=fadeIn&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=blur&text=Hi%20I'm%20Sakiyah%20a%20Student%20passionate%20about%20Frontend%20and%20AI%20development&fontColor=f5f5dc&fontSize=20&animation=fadeIn&fontAlign=50)
 
 
 ```yaml
